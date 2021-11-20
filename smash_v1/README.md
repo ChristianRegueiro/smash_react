@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Create script
-npx create-react-app "nombre app"
+### `npx create-react-app "nombre app"`
 
 ## Available Scripts
 
